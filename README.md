@@ -1,2 +1,2 @@
 # learnGit
-Repository for learnign and playing around with git.
+Repository for learnig and playing around with git.
